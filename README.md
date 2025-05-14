@@ -8,4 +8,4 @@ Thickness non-uniformity within the measurement area is included as a fitting pa
 
 All the files are in the Git folder.
 
-Enjoy Optics!
+Enjoy Physics!
